@@ -10,7 +10,6 @@ module.exports = (grunt)->
         options:
           pretty:true
         files:
-          'dist/abn_tree_template.html':'src/abn_tree_template.jade'
           'test/tests_page.html':'test/tests_page.jade'
 
       #
